@@ -6,7 +6,7 @@ ___
  - [x] Make Elementary Schedule
  - [x] Make SRBI Schedule (8th graders tentative)
  - [x] Finish my laundry
- - [ ] Wash my sheets
+ - [x] Wash my sheets (actually washing blanket, sheet went in the basket)
  - [ ] Vacuum again
  - [ ] Steam shirts
  - [ ] Iron pants
