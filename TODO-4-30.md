@@ -12,4 +12,4 @@ ___
  - [x] At least one AsmrProg project 
  - [ ] At least one lesson from TOP
  - [ ] Finish first lesson from FCC
- - [ ]  
+ - [ ] Clear storage on laptop 
