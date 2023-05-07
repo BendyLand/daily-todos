@@ -18,6 +18,8 @@ ___
     - [ ] percussion 
  - [x] One Asmr project
  - [x] One line from a FCC project
+    - [x] Finish one FCC project 
+    - [x] Finish two FCC projects!
  - [ ] Cut toenails
  - [ ] Shave
  - [x] **Plan General Music**
