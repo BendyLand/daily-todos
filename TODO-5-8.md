@@ -6,9 +6,9 @@ ___
  - [x] Make Elementary schedule
  - [x] Make SRBI schedule
  - [x] Second load of laundry
- - [ ] Put away laundry
- - [ ] Steam shirts
- - [ ] Iron pants
+ - [x] Put away laundry
+ - [x] Steam shirts
+ - [x] Iron pants
  - [x] **Write page 2 for the Elementary concert (at least for flute and clarinet)**
     - [x] flute
     - [x] clarinet
