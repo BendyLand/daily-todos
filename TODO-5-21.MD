@@ -2,13 +2,14 @@
 > My to-do list for the day.
 ___
 
- - [ ] Make SRBI schedule
+ - [ ] Make SRBI schedule (possible different from normal?)
  - [ ] Make Elementary schedule (different from normal)
  - [ ] Make middle/high concert program (file)
  - [ ] Make elementary concert program (file)
  - [ ] Write middle/high concert speeches
  - [ ] Write elementary concert speeches
- - [ ] Do laundry
+ - [x] Start laundry
+ - [ ] Finish laundry
  - [ ] Put away laundry
  - [ ] Steam shirts
  - [ ] Iron pants
