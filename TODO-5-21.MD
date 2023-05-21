@@ -11,11 +11,13 @@ ___
  - [x] Start laundry
  - [x] Finish laundry
  - [x] Put away laundry
- - [ ] Iron pants
+ - [x] Iron pants
  - [x] Check suit and find tie(s)
- - [ ] Shave
+ - [x] Shave
  - [x] Clean toilet
  - [x] Oil change
  - [x] Pick up item
- - [ ] Grocery shopping
+ - [x] Grocery shopping
+ - [x] Wash dishes
+ - [ ] Run dishwasher
  - [x] Plan General Music
