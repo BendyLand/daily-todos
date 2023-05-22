@@ -19,5 +19,5 @@ ___
  - [x] Pick up item
  - [x] Grocery shopping
  - [x] Wash dishes
- - [ ] Run dishwasher
+ - [x] Run dishwasher
  - [x] Plan General Music
