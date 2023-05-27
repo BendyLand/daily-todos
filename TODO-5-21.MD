@@ -6,8 +6,8 @@ ___
  - [x] Make Elementary schedule (different from normal)
  - [x] Make middle/high concert program (file)
  - [x] Make elementary concert program (file)
- - [ ] Write middle/high concert speeches
- - [ ] Write elementary concert speeches
+ - [x] Write middle/high concert speeches
+ - [x] Write elementary concert speeches
  - [x] Start laundry
  - [x] Finish laundry
  - [x] Put away laundry
