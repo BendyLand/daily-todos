@@ -7,7 +7,7 @@ ___
  - [ ] Shave
  - [ ] Cut fingernails
  - [ ] Cut toenails
- - [ ] Put away laundry
+ - [x] Put away laundry
  - [ ] Iron pants
- - [ ] Put away suit
+ - [x] Put away suit
  - [x] Get up to 25% through fcc d3
