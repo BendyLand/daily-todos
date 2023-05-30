@@ -4,9 +4,9 @@ ___
 
  - [x] Make elementary schedule
  - [x] Make srbi schedule
- - [ ] Shave
- - [ ] Cut fingernails
- - [ ] Cut toenails
+ - [x] Shave
+ - [x] Cut fingernails
+ - [x] Cut toenails
  - [x] Put away laundry
  - [ ] Iron pants
  - [x] Put away suit
