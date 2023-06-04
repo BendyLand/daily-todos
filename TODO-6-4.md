@@ -5,12 +5,14 @@ ___
 
  - [ ] **Make elementary schedule**
  - [ ] **Make SRBI schedule**
- - [ ] Do laundry
+ - [x] Do laundry
  - [ ] Put away laundry
  - [ ] Iron pants
  - [ ] Grocery shopping
  - [ ] *HTML fcc exercises*
- - [ ] Change sheets
+ - [x] Change sheets
  - [ ] **Refill messenger bag**
  - [ ] **Refill lunch box**
  - [ ] *Cut up boxes*
+ - [ ] Empty dishwasher
+ - [ ] Run dishwasher
