@@ -6,8 +6,8 @@ ___
  - [x] **Make elementary schedule**
  - [x] **Make SRBI schedule**
  - [x] Do laundry
- - [ ] ==Put away laundry (15 - 25 minutes)==
- - [ ] Iron pants (20 - 45 minutes)
+ - [x] Put away laundry (15 - 25 minutes)
+ - [x] Iron pants (20 - 45 minutes)
  - [ ] *Grocery shopping*
  - [ ] *HTML fcc exercises*
  - [x] Change sheets
@@ -18,5 +18,5 @@ ___
  - [x] Fill and run dishwasher (5 minutes)
  - [ ] Shave (10 - 20 minutes)
 
-==45 - 90 minutes of mandatory tasks remaining==[^1]
+==10 - 20 minutes of mandatory tasks remaining==[^1]
 [^1]: Mandatory tasks are labelled with their respective durations. Tasks without a duration are not mandatory, regardless of text style.
