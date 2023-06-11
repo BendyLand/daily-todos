@@ -16,7 +16,8 @@ ___
  - [ ] *Cut up boxes*
  - [x] Empty dishwasher (5 minutes)
  - [x] Fill and run dishwasher (5 minutes)
- - [ ] Shave (10 - 20 minutes)
+ - [x] Shave (10 - 20 minutes)
+ - [x] Clean sink
 
-==10 - 20 minutes of mandatory tasks remaining==[^1]
+==0 minutes of mandatory tasks remaining 😋==[^1]
 [^1]: Mandatory tasks are labelled with their respective durations. Tasks without a duration are not mandatory, regardless of text style.
