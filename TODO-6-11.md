@@ -4,11 +4,12 @@ cp README.md TODO-#-#.md
 > My to-do list for the day.
 ___
 
- - [ ] Make elementary schedule 
+ - [x] Make elementary schedule 
  - [ ] Make srbi schedule 
- - [ ] Laundry
- - [ ] Iron pants
+ - [x] Laundry
+ - [ ] *Iron pants*
  - [ ] Shave
  - [ ] Cut fingernails
  - [ ] *Cut toenails?*
  - [ ] *Shop?*
+ - [ ] **Clean laptop**
