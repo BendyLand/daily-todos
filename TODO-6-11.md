@@ -14,4 +14,4 @@ ___
  - [ ] *Iron pants*
  - [ ] *Cut toenails?*
  - [ ] *Shop?*
- - [ ] **Clean laptop**
+ - [x] **Clean laptop**
