@@ -7,9 +7,11 @@ ___
  - [x] Make elementary schedule 
  - [ ] Make srbi schedule 
  - [x] Laundry
+ - [x] Shave
+ - [x] Cut fingernails
+ - [x] Put away laundry
+ - [x] Pick outfit
  - [ ] *Iron pants*
- - [ ] Shave
- - [ ] Cut fingernails
  - [ ] *Cut toenails?*
  - [ ] *Shop?*
  - [ ] **Clean laptop**
